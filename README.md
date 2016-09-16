@@ -14,3 +14,5 @@ To build and upload the firmware to the Arduino:
 To test the serial line:
 
   $ python test.py
+
+[1]: http://www.florentflament.com/blog/arduino-hello-world-without-ide.html
